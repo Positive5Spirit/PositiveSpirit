@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>Willkommen bei Positive Spirit</h1>
-  <p>Dein Ort für Gesundheit, Fitness und Mindset.</p>
+  <p>Hier findest du alles über Gesundheit, Fitness und Mindset.</p>
 </body>
 </html>
 

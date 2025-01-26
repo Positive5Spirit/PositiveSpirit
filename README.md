@@ -8,9 +8,8 @@
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      margin: 0;
       padding: 50px;
-      background-color: #f9f9f9;
+      background-color: #f4f4f9;
     }
     h1 {
       color: #2c3e50;
